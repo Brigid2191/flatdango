@@ -1,7 +1,7 @@
 {
   "name": "flatdango",
   "version": "1.0.0",
-  "description": "",
+  "description": "Live API for Flatdango",
   "main": "index.js",
   "scripts": {
     "start": "json-server --watch db.json --port 3000"

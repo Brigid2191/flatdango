@@ -1,17 +1,17 @@
 {
   "films": [
     {
-      "id": 1,
+      "id": "1",
       "title": "The Giant Gila Monster",
       "runtime": 108,
       "capacity": 30,
       "showtime": "04:00PM",
-      "tickets_sold": 27,
+      "tickets_sold": 30,
       "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Manos: The Hands Of Fate",
       "runtime": 118,
       "capacity": 50,
@@ -21,7 +21,7 @@
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/47781/p47781_v_v8_ac.jpg"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Metropolis",
       "runtime": 153,
       "capacity": 100,
