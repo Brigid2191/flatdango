@@ -1,23 +1,14 @@
 {
-  "name": "flatdango",
+  "name": "code-challenge",
   "version": "1.0.0",
-  "description": "Live API for Flatdango",
+  "description": "Flatiron Movie Theater is open for business! You will be building out an application, Flatdango, that allows a user to purchase movie tickets from the theater.",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 3000"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Brigid2191/flatdango.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Brigid2191/flatdango/issues"
-  },
-  "homepage": "https://github.com/Brigid2191/flatdango#readme",
   "dependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "db-json": "^0.1.0"
   }
 }
